@@ -23,7 +23,9 @@ body, html {
   color: white;
 }
 
-.card {
+
+
+.row .card {
     height: 550px;
     margin-top: .25rem;
     margin-bottom: .25rem;
@@ -50,6 +52,4 @@ input[type=text], textarea {
     padding: 20px;
   }
 
-  footer p {
-    
-  }
+ 
